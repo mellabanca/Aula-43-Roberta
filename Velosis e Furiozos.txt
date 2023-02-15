@@ -1,0 +1,43 @@
+Elementos do jogo - Velosis e Furiozos
+
+Personagens:
+PCs (personagem jogável Playing Character)- carros
+NPCs (personagm não jogável - Non-Playing Character) - modedas, combustível, obstáculos, oponente
+
+Objetivo:
+Chegar na linha de chegada primeiro e, de preferência, com mais pontos
+
+Regras:
+O jogo começa quando dois jogadores entram
+O jogo termina quando: - morte de um jogador
+		       - ao jogador alcançar a linha de chegada
+		       - falta de combustível de um jogador
+Controle do jogador: setas do teclado (cima, esquerda, direita)
+A pontuação aumenta quando pegamos as moedas
+O nível de combustível é completado quando pegamos o tanque de combustível
+O combustível diminui quando andamos com o carro
+A vida diminui quando batemos no oponente ou nos obstáculos
+A câmera acompanha a posição do respectivo jogador
+As informações são resetadas ao pressionar o botão de reiniciar
+
+Equilíbrio:
+Mais fácil - combustíveis, distribuição adequada dos obstáculos
+Mais difícil - nível do combustível pode abaixar, obstáculos
+
+Adaptabilidade:
+Combustível
+
+Elementos do acaso:
+Moedas, combustíveis, oponente
+
+Elementos de habilidade:
+Obstáculos
+
+Feedback:
+Barrinha de vida, combustível, placar, linha de chegada
+
+História:
+Duas amigas estavam entediadas em uma ilha abandonada cheia de escombros.
+Nesta ilhasm, elas encontraram uma pista de aeroporto e também dois carros
+em perfeito funcionamento.
+Como estavam bem entediadas, resolveram apostar uma corrida na ilha.

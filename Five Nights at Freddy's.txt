@@ -1,0 +1,52 @@
+Elementos do jogo - five nights at freddy's 2 (FNAF)
+
+Personagens:
+PCs - segurança da pizzaria
+NPCs - animatronics (Foxy, Bunny, Freddy, Chica, Bonnie, etc)
+
+Objetivo:
+Sobreviver as 5 noites
+
+Regras:
+Apontar a lanterna pro Foxy quando ele estiver vindo
+A luz paralisa os animatronics
+Conseguimos ver os animatronics pelas imagens das câmeras
+Não conseguimos sair da sala de segurança
+Quando um animatronic estiver próximo, devemos fechar as portas
+Qualquer coisa que você faz, gasta energia
+Quando a energia acaba, você fica desprotegido (aumenta a chance de perder)
+O jogo termina quando um animatronic te mata ou você sobrevive às 5 noites
+
+Equilíbrio:
+Mais fácil - Luzes, portas, câmeras
+Mais difícil - energia
+
+Adaptabilidade:
+À medida que as noites vão passando, o jogo vai ficando mais difícil
+Eles começam a sair mais cedo e movimentam mais rápido, mais ativos
+
+Elementos do acaso:
+Quando o Foxy vai sair da casinha dele
+Jumpscare
+
+Elementos de habilidade:
+Decorando onde cada um aparece, seus comportamentos
+
+Feedback:
+Hora e os dias
+Energia
+
+História: COMPLEXA
+A história se passa em 1987.
+O personagem do jogador é Jeremy Fitzgerald, começou a trabalhar como
+guarda de segurança noturno na melhorada Pizzaria Freddy Fazbear.
+A mesma pessoa do jogo anterior (só que mais nova) um cara telefona
+para Jeremy no início de cada noite para explicar a jogabilidade e
+história. Ele explica que os novos (na época) animatrônicos, que têm
+um software especial de reconhecimento facial para proteger as crianças
+de danos potenciais, não foram programados com um modo noturno
+apropriado, então quando eles não ouvem nenhum som, sua programação
+lhes diz que eles estão no lugar errado e procuram a fonte sonora mais
+próxima em busca de pessoas para entreter, lugar que calha de ser o
+escritório.
+(acha mais na Wikipedia)
